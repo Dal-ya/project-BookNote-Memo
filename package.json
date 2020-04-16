@@ -1,0 +1,26 @@
+{
+  "name": "book-note-memo",
+  "version": "1.0.0",
+  "description": "### 나만의 독서 감상 메모 웹 애플리케이션",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dal-ya/project-BookNote-Memo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dal-ya/project-BookNote-Memo/issues"
+  },
+  "homepage": "https://github.com/Dal-ya/project-BookNote-Memo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
